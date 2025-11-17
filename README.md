@@ -22,7 +22,6 @@ This project is a demo Streamlit app that demonstrates:
    export OPENAI_API_KEY='sk-...'
    export SERPAPI_API_KEY='...'
    ```
-   Or edit `config/config.py` (not recommended for secrets).
 
 4. Run the app:
    ```bash
